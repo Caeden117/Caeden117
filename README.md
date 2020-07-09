@@ -1,4 +1,9 @@
-### Hi there 👋
+### Lazy C# Developer
+*"I'm a full stack developer; if you give me one more task, my stack will overflow."*
+
+#### Active Projects
+- [ChroMapper](https://github.com/Caeden117/ChroMapper)
+- [Counters+](https://github.com/Caeden117/CountersPlus)
 
 <!--
 **Caeden117/Caeden117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
