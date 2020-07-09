@@ -1,3 +1,5 @@
+![Pelones](https://i.imgur.com/NULMpjP.png)
+
 ### Lazy C# Developer
 *"I'm a full stack developer; if you give me one more task, my stack will overflow."*
 
