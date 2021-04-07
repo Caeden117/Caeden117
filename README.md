@@ -14,8 +14,8 @@ Hi! I'm a C# developer. Most of my experience comes from the Unity engine, as we
 <details>
   <summary>Metrics</summary>
   <br>
-  ![Metrics](https://github.com/Caeden117/Caeden117/blob/master/github-metrics.svg)
- </details>
+  <img src="https://github.com/Caeden117/Caeden117/blob/master/github-metrics.svg"/>
+</details>
 
 <!--
 **Caeden117/Caeden117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
