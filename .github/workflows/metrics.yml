@@ -18,7 +18,7 @@ jobs:
           # Options
           user: Caeden117
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
           config_timezone: America/Los_Angeles
           plugin_introduction: yes
           plugin_introduction_title: yes
@@ -27,11 +27,8 @@ jobs:
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_ignored: shell, glsl, hlsl, shaderlab
+          plugin_languages_ignored: shell, glsl, hlsl, shaderlab, smalltalk
           plugin_languages_threshold: 0%
-          plugin_projects: yes
-          plugin_projects_descriptions: yes
-          plugin_projects_limit: 4
           
           # WakaTime
           plugin_wakatime: yes
