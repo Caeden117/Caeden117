@@ -3330,36 +3330,27 @@
                                 <span class="name">
                                     ChroMapper
                                 </span>
-                                <div class="bar" style="width: 40.792%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 43.848%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">
-                                    51%
+                                    55%
                                 </span>
                             </div>
                             <div class="entry">
                                 <span class="name">
                                     Curved UI Utility
                                 </span>
-                                <div class="bar" style="width: 22.384%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 23.552%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">
-                                    28%
+                                    29%
                                 </span>
                             </div>
                             <div class="entry">
                                 <span class="name">
                                     Halo 3 ODST Models Test
                                 </span>
-                                <div class="bar" style="width: 16.176%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 12.6%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">
-                                    20%
-                                </span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">
-                                    Shader Development
-                                </span>
-                                <div class="bar" style="width: 0.424%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">
-                                    1%
+                                    16%
                                 </span>
                             </div>
                         </div>
@@ -3371,7 +3362,7 @@
                     These metrics include private contributions, timezone America/Los_Angeles
                 </span>
                 <span>
-                    Last updated Sat, 10 Apr 2021 07:08:50 GMT with lowlighter/metrics@3.6.0
+                    Last updated Sat, 10 Apr 2021 08:06:27 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
