@@ -3360,18 +3360,18 @@
                                 <span class="name">
                                     ChroMapper
                                 </span>
-                                <div class="bar" style="width: 47.336%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 52.56%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">
-                                    59%
+                                    66%
                                 </span>
                             </div>
                             <div class="entry">
                                 <span class="name">
                                     Importing Test
                                 </span>
-                                <div class="bar" style="width: 32.664%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 27.439999999999998%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">
-                                    41%
+                                    34%
                                 </span>
                             </div>
                             <div class="entry">
@@ -3392,7 +3392,7 @@
                     These metrics include private contributions, timezone America/Los_Angeles
                 </span>
                 <span>
-                    Last updated Sat, 17 Apr 2021 07:08:36 GMT with lowlighter/metrics@3.7.0
+                    Last updated Sat, 17 Apr 2021 08:06:33 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
