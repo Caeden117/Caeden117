@@ -8,6 +8,7 @@ Hi! I'm a C# developer. Most of my experience comes from the Unity engine, as we
 
 #### Active Projects
 - [ChroMapper](https://github.com/Caeden117/ChroMapper)
+- [Hive](https://github.com/Atlas-Rhythm/Hive)
 - [Counters+](https://github.com/Caeden117/CountersPlus)
 - [Curved UI Utility](https://github.com/Caeden117/Curved-UI-Utility)
 
