@@ -1,10 +1,10 @@
 ![Pelones](https://i.imgur.com/NULMpjP.png)
 
-### Self-taught C# Developer
-*"I'm a full stack developer; if you give me one more task, my stack will overflow."*
+### Aspiring C# Developer
 
-### Quick Bio
-Hi! I'm a C# developer. Most of my experience comes from the Unity engine, as well as working with .NET 5.
+Hi! I'm a C# developer. Most of my experience comes from the Unity engine, as well as working with the latest versions of .NET.
+
+I've been learning to program for several years, and I'm now in college working towards a degree in Computer Science or Software Engineering. Pretty exciting stuff!
 
 #### Active Projects
 - [ChroMapper](https://github.com/Caeden117/ChroMapper)
@@ -17,18 +17,3 @@ Hi! I'm a C# developer. Most of my experience comes from the Unity engine, as we
   <br>
   <img src="https://github.com/Caeden117/Caeden117/blob/master/github-metrics.svg"/>
 </details>
-
-<!--
-**Caeden117/Caeden117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
