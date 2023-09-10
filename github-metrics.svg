@@ -2352,17 +2352,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Virtuni</span>
-                                <div class="bar" style="width: 70.592%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">88%</span>
+                                <div class="bar" style="width: 70.936%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">89%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">AtlasEditor</span>
-                                <div class="bar" style="width: 6.879999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 6.624%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TestTest</span>
-                                <div class="bar" style="width: 2.5280000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.432%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                         </div>
@@ -2371,7 +2371,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Sept 2023, 00:13:06 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Sept 2023, 01:17:57 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
