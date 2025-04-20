@@ -1,6 +1,6 @@
-### Hi! I'm a C# developer.
+### Hi! I'm a game developer.
 
-Most of my experience comes from the Unity engine and the latest versions of .NET. I've been developing games and small projects for several years.
+I've been developing games and small projects for several years! Most of my experience comes from the Unity engine, C#, and the newer versions of .NET. Recently, I have been learning Godot through small games done in University. Neat stuff!
 
 #### My Projects
 - [ChroMapper](https://github.com/Caeden117/ChroMapper)
