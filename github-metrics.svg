@@ -2335,22 +2335,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">AtlasEditor</span>
-                                <div class="bar" style="width: 47.504%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">59%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">ChroMapper</span>
-                                <div class="bar" style="width: 12.912%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">16%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Tri Campus 2026</span>
-                                <div class="bar" style="width: 11.632%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
+                                <div class="bar" style="width: 32.856%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">41%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS 385 Adventure Game</span>
-                                <div class="bar" style="width: 7.951999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 30.168%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">38%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">ChroMapper</span>
+                                <div class="bar" style="width: 8.936%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">11%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Tri Campus 2026</span>
+                                <div class="bar" style="width: 8.048%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">10%</span>
                             </div>
                         </div>
@@ -2359,7 +2359,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Apr 2026, 02:02:39 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Apr 2026, 04:19:46 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
