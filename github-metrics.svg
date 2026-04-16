@@ -2356,18 +2356,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">CSS 385 Adventure Game</span>
-                                <div class="bar" style="width: 68.00800000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">85%</span>
+                                <div class="bar" style="width: 72.96799999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">91%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Tri Campus 2026</span>
-                                <div class="bar" style="width: 11.992%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">AtlasEditor</span>
-                                <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                <span class="value">0%</span>
+                                <div class="bar" style="width: 7.031999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                         </div>
                     </section>
@@ -2375,7 +2370,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Apr 2026, 01:46:17 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Apr 2026, 03:18:36 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
